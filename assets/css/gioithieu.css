@@ -1,0 +1,28 @@
+/**/
+
+#container-content{
+    margin-top: 8px;
+    border-top: 1px solid #ccc;
+}
+
+#content{
+  padding: 0 32px;
+}
+
+#content .about-heading{
+    padding: 32px 0;
+}
+
+#content .heading{
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+#content .about-text{
+    font-size: 14px;
+    line-height: 1.5;
+    padding-bottom: 16px;
+}
+
+/**/
+

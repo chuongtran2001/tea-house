@@ -1,0 +1,28 @@
+
+#container-content{
+    margin-top: 8px;
+    border-top: 1px solid #ccc;
+}
+
+#content{
+  padding: 0 32px;
+}
+
+#content .content-heading{
+    font-size: 10px;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0 120px;
+}
+
+#content .about-text{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 5px;
+    margin-bottom: 70px;
+}
+
+#content .about-heading-1{
+    font-size: 24px;
+}
+
